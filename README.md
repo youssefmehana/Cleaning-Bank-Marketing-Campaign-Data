@@ -9,4 +9,3 @@ Normalize it into three separate datasets: client.csv, campaign.csv, and economi
 
 Ensure consistency in data types and format
 
-Facilitate smooth integration with a PostgreSQL database
